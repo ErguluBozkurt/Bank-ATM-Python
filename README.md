@@ -1,6 +1,6 @@
-# Python Bankamatik Simülasyonu
+# Python Bankamatik 
 
-Nesne yönelimli programlama ile geliştirilmiş bankamatik simülasyonu.
+Nesne yönelimli programlama ile geliştirilmiş bankamatik.
 
 ## Özellikler
 
