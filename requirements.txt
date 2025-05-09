@@ -1,0 +1,16 @@
+
+# Temel
+python-dateutil==2.8.2
+pytz==2022.1
+
+# Geliştirme
+pylint==2.15.0
+autopep8==1.7.0
+
+# Test
+pytest==7.2.0
+pytest-cov==4.0.0
+
+# Dokümantasyon
+sphinx==5.3.0
+sphinx-rtd-theme==1.1.1
